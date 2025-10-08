@@ -1,2 +1,3 @@
 # Crawler_v1
-Self designed crawling robot
+This repo will contain all the files for this project as well as research, parts and more
+
